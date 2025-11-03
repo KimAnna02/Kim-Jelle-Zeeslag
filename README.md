@@ -33,7 +33,7 @@ Onderzeeër (3)
 Mijnenveger (2)
 
 HET SPEL
-1. De spelers mogen nu om de beurt de een coordinaat aantikken.
+1. De spelers mogen nu om de beurt een coordinaat aantikken.
 Zij zien metteen of het schot raak is (Rood voor 'Hit' en wit voor 'Mis').
 Hierna mag de speler op Enter drukken.
 3. In Het volgende scherm komt te staan of het een 'Hit of 'Mis"
