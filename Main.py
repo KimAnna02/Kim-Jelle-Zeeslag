@@ -284,3 +284,4 @@ class BattleshipSetupApp(tk.Tk):
 
 if __name__ == "__main__":
     BattleshipSetupApp().mainloop()
+    
